@@ -1,1 +1,1 @@
-# logistic-regression
+# polynomial-regression
